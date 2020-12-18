@@ -1,2 +1,6 @@
-speed: 1.0
+# FastPot Config
+
 #determines how fast the potion splashes (range: 0.0 - 4.0)
+speed: 1.0
+#disable fastpot for debuffs
+disableOnDebuff: true
